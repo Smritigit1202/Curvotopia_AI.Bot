@@ -11,21 +11,36 @@ Welcome to Curvetopia! This project is all about transforming rough 2D shapes in
 
    Watch the process in action:
 
-   
 
-3. Symmetry Detection 🔍  
+   <img width="346" alt="abc" src="https://github.com/user-attachments/assets/4bc5020c-2737-4495-97db-32667a9b9aaf">
+
+
+
+https://github.com/user-attachments/assets/97021c0a-a1b9-4521-acda-5f5847fb5512
+
+
+
+2. Symmetry Detection 🔍  
    Next, we detect symmetry in the shape—whether it's horizontal, vertical, or diagonal. Understanding the symmetry helps us ensure the shape is perfectly balanced.
 
-   See how we detect symmetry:
+    how we detect symmetry:
 
    
 
-5. Completing Incomplete Shapes 🧩  
+https://github.com/user-attachments/assets/c067b9b9-a7f2-4a2f-a57f-de338796dd4c
+
+
+
+3. Completing Incomplete Shapes 🧩  
    Finally, we complete any missing parts of the shape. If the shape is incomplete, we fill in the gaps to create a perfect, whole figure.
 
    Watch how we complete shapes:
 
    
+
+https://github.com/user-attachments/assets/b9e7888b-7251-4bce-9025-50c18b6aae24
+
+
 
  Getting Started
 
