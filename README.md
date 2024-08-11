@@ -18,6 +18,7 @@ Welcome to Curvetopia! This project is all about transforming rough 2D shapes in
 
 https://github.com/user-attachments/assets/97021c0a-a1b9-4521-acda-5f5847fb5512
 
+<img width="256" alt="circle beautified" src="https://github.com/user-attachments/assets/26aeb0bc-7a22-4cdc-b6b8-870b8bfa2a7c">
 
 
 2. Symmetry Detection 🔍  
@@ -29,6 +30,7 @@ https://github.com/user-attachments/assets/97021c0a-a1b9-4521-acda-5f5847fb5512
 
 https://github.com/user-attachments/assets/c067b9b9-a7f2-4a2f-a57f-de338796dd4c
 
+<img width="277" alt="sym" src="https://github.com/user-attachments/assets/427127e4-dae6-4d71-b5de-7e0319686dec">
 
 
 3. Completing Incomplete Shapes 🧩  
@@ -40,6 +42,7 @@ https://github.com/user-attachments/assets/c067b9b9-a7f2-4a2f-a57f-de338796dd4c
 
 https://github.com/user-attachments/assets/b9e7888b-7251-4bce-9025-50c18b6aae24
 
+<img width="143" alt="comp img" src="https://github.com/user-attachments/assets/513c9c75-688a-41b7-be25-006f7adaffcd">
 
 
  Getting Started
