@@ -76,5 +76,5 @@ To use Curvetopia, you'll need Python installed along with a few libraries. Here
 - README.md: This file.
 - videos/: Directory containing the demo videos.
 
- Contact
+ Contact 
  Reach out at [smritiaggarwal1202@gmail.com]
